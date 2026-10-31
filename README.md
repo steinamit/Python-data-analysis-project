@@ -1,6 +1,6 @@
 # Household Travel Survey Analysis
 
-> What the Ministry of Transportation's household travel survey reveals about who holds a driving licence in the Tel Aviv metro area.
+> What the Ministry of Transportation's household travel survey reveals about who holds a driving license in the Tel Aviv metro area.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-4C72B0) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
@@ -8,13 +8,16 @@
 
 - Real public-sector microdata: household and member tables covering about 39,000 people.
 - Question-driven analysis across education, employment, gender and religious sector.
-- Clear finding: licence gaps between groups are large, widest among ultra-Orthodox respondents.
+- Clear finding: license gaps between groups are large, widest among ultra-Orthodox respondents.
+
+![Presenting the analysis to the class, March 2024](images/presentation.jpg)
+*Presenting the analysis to the class, March 2024.*
 
 ## Questions
 
 1. How does education level relate to the driver-profile field in the survey?
-2. Is employment status related to holding a car or motorcycle licence?
-3. How do gender and religious sector relate to holding a car licence?
+2. Is employment status related to holding a car or motorcycle license?
+3. How do gender and religious sector relate to holding a car license?
 
 ## Approach
 
@@ -22,7 +25,7 @@ Fixed mixed data types, recoded survey codes into labels, handled missing househ
 
 ## Key finding
 
-Car-licence holding by gender and sector:
+Car-license holding by gender and sector:
 
 | Sector | Women | Men |
 |---|---|---|
